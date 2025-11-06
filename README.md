@@ -190,7 +190,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 ## Contact
 
-Your Name - [@your_twitter](https://twitter.com/your_twitter) - your.email@example.com
+Your Name - [@your_twitter](https://twitter.com/jeyadev.r) - jeyadev2006.gmail.com
 
 Project Link: [https://github.com/your-username/AeroSight](https://github.com/your-username/AeroSight)
 
