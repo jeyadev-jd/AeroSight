@@ -190,9 +190,9 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 ## Contact
 
-Your Name - [@your_twitter](https://twitter.com/jeyadev.r) - jeyadev2006.gmail.com
+Your Name - [@jeyadev.r](https://twitter.com/jeyadev.r) - jeyadev2006.gmail.com
 
-Project Link: [https://github.com/your-username/AeroSight](https://github.com/your-username/AeroSight)
+Project Link: [https://github.com/jeyadev-jd/AeroSight](https://github.com/jeyadev-jd/AeroSight)
 
 ---
 
