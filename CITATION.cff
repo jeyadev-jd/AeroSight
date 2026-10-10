@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+type: software
+title: "AeroSight: Air Quality Forecasting & Health Reporting Toolkit"
+abstract: "Air quality analysis and forecasting toolkit combining Prophet and XGBoost dual-model forecasting, correlating pollution with mortality data, and auto-generating multi-page PDF reports for monitoring stations."
+authors:
+  - family-names: "R"
+    given-names: "Jeyadev"
+    email: "jeyadev2006@gmail.com"
+    affiliation: "Sri Ramachandra Institute of Higher Education and Research"
+repository-code: "https://github.com/jeyadev-jd/AeroSight"
+url: "https://jeyadev.dev/projects/aerosight"
+keywords:
+  - "Python"
+  - "Prophet"
+  - "XGBoost"
+  - "Open-Meteo"
+date-released: "2026-10-10"
